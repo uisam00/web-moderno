@@ -4,7 +4,7 @@ Esse repositório serve para armazenar os conhecimentos sobre desenvolvimento we
 A cada commit atualizarei esse documento adicionando os conceitos que aprendi.
 
 
-## PRIMEIRO COMMIT:
+## *PRIMEIRO COMMIT*:
   ## organizacao.js
   - Sentenca de código
   - Bloco de código
@@ -54,3 +54,28 @@ A cada commit atualizarei esse documento adicionando os conceitos que aprendi.
   - o template string deixa o código mais limpo e mais maleável 
   - é possível realizar operacoes dentro do template string de uma forma mais simples
   - é possivel chamar uma funcao dentro de um template string
+
+
+## *SEGUNDO COMITT*
+
+  ## boolanos.js
+  - No JavaScript existe mais possibilidade de manipular tipos booleans
+  - console.log(nome || 'Desconhecido'), é muito comuno no java script usar essa estrutura para validação
+
+  ## arrays.js
+  - arrays são tipos dinamicos que crescem ou diminuem de acordo com a inserção ou deleção de elementos
+  - estrutura indexada, cada elemento oculpa uma posição
+  - metodos push e pop, que adicionam valores em um array e deletam respectivamente
+
+  ## objeto.js
+  - um objeto é um conjuto de pares de chaves e valores.
+  - objeto em javascrip são dinamicos, não é preciso criar uma classe para declarar um objeto.
+
+  ## nullUndefined.js
+  - const a = 'Feliz', b = a -- o javascrip aponta para o mesmo endereco de memória
+  - const a = 1, b = a -- com tipo primitivo o javascrip faz uma cópia do valor para a segunda variável
+  - para uma variável deixar de apontar para um endereco de memória é necessário atribuir null a essa variável
+  - quando uma variável está com null, não pode acessar nenhum membro, função ou atributo dessa variável
+
+  ## funcaEmQuaseTudo.js
+  - objetos instanciados são do tipo function
