@@ -1,6 +1,8 @@
 # Curso de desenvolvimento Web
 Esse repositório serve para armazenar os conhecimentos sobre desenvolvimento web
 
+Curso da Cod3r na udemy
+
 
 ## Seção 1:Introdução Curso Desenvolvimento Web
 
@@ -8,7 +10,6 @@ Esse repositório serve para armazenar os conhecimentos sobre desenvolvimento we
 
 ## Seção 3:Javascript: Fundamentos
 
-## Seção 4:Javascript: Estruturas de
-Controle
+## Seção 4:Javascript: Estruturas de Controle
 
 ## Seção 5:Javascript: Função
