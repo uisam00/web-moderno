@@ -1,3 +1,7 @@
+/**
+ * funcoes anonimas são aquelas que não são nomeadas
+ */
+
 const soma = function(x, y){
     return x + y
 }
